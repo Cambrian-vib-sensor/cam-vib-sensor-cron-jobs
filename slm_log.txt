@@ -1,0 +1,5610 @@
+{ address: 264, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 6d> ] }
+87.7
+Success
+Completed
+{ address: 264, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 73> ] }
+88.3
+Success
+Completed
+{ address: 264, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 74> ] }
+88.4
+Success
+Completed
+{ address: 264, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 5f> ] }
+86.3
+Success
+Completed
+{ address: 264, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 6b> ] }
+87.5
+Success
+Completed
+{ address: 264, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 6e> ] }
+87.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 5a> ] }
+85.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 43> ] }
+83.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 40> ] }
+83.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 5e> ] }
+86.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 71> ] }
+62.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 c9> ] }
+45.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 c7> ] }
+45.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 c6> ] }
+45.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 97> ] }
+66.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 87> ] }
+64.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 82> ] }
+64.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 80> ] }
+64
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 7d> ] }
+63.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 96> ] }
+66.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 97> ] }
+66.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 8f> ] }
+65.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 b2> ] }
+69
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 95> ] }
+40.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 96> ] }
+40.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 53> ] }
+59.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 3f> ] }
+83.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 41> ] }
+83.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 2c> ] }
+81.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 33> ] }
+81.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 3e> ] }
+83
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 cc> ] }
+46
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 eb> ] }
+49.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f7> ] }
+50.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 ee> ] }
+49.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f7> ] }
+50.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 01> ] }
+51.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 02> ] }
+51.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 cd> ] }
+46.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 dd> ] }
+47.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 d7> ] }
+47.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 d3> ] }
+46.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 e5> ] }
+48.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 d9> ] }
+47.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 39> ] }
+82.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 3c> ] }
+82.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 48> ] }
+84
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 4a> ] }
+84.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 e3> ] }
+48.3
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 26> ] }
+55
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 11> ] }
+52.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0c> ] }
+52.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 34> ] }
+56.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 09> ] }
+52.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 5f> ] }
+60.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 56> ] }
+59.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 13> ] }
+53.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0c> ] }
+52.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 37> ] }
+56.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 47> ] }
+58.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 27> ] }
+55.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2b> ] }
+55.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 05> ] }
+51.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 08> ] }
+52
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 64> ] }
+61.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 23> ] }
+54.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fd> ] }
+50.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 02> ] }
+51.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f4> ] }
+50
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fd> ] }
+50.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 15> ] }
+53.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 02> ] }
+51.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2b> ] }
+55.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 08> ] }
+52
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1b> ] }
+53.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3d> ] }
+57.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 42> ] }
+57.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 59> ] }
+60.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f5> ] }
+50.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 03> ] }
+51.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 61> ] }
+86.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 7b> ] }
+89.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 64> ] }
+86.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 6f> ] }
+87.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 03 51> ] }
+84.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b7> ] }
+43.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b4> ] }
+43.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f1> ] }
+49.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b7> ] }
+43.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 e1> ] }
+48.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b5> ] }
+43.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 da> ] }
+47.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 d1> ] }
+46.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b1> ] }
+43.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 cb> ] }
+45.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b7> ] }
+43.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 ba> ] }
+44.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 bd> ] }
+44.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 d7> ] }
+47.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 06> ] }
+51.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 02> ] }
+51.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 df> ] }
+47.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 dd> ] }
+47.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 da> ] }
+47.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 92> ] }
+65.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 d9> ] }
+47.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 dc> ] }
+47.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 dc> ] }
+47.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 d7> ] }
+47.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 e3> ] }
+48.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 ef> ] }
+49.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 e8> ] }
+48.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 e4> ] }
+48.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 df> ] }
+47.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 e9> ] }
+48.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 ee> ] }
+49.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f1> ] }
+49.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 ea> ] }
+49
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 09> ] }
+52.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f9> ] }
+50.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 e6> ] }
+48.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 cf> ] }
+46.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 bc> ] }
+44.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b1> ] }
+43.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 a9> ] }
+42.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 ae> ] }
+43
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2d> ] }
+55.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3c> ] }
+57.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 43> ] }
+57.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 32> ] }
+56.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 25> ] }
+54.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1d> ] }
+54.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 25> ] }
+54.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 34> ] }
+56.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 01> ] }
+51.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0b> ] }
+52.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 05> ] }
+51.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2b> ] }
+55.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2e> ] }
+55.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 27> ] }
+55.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1b> ] }
+53.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 30> ] }
+56
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1f> ] }
+54.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 45> ] }
+58.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 37> ] }
+56.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 30> ] }
+56
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 23> ] }
+54.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 d1> ] }
+72.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 45> ] }
+58.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 31> ] }
+56.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 36> ] }
+56.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3c> ] }
+57.2
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3a> ] }
+57
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 dd> ] }
+73.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 74> ] }
+62.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 d3> ] }
+72.3
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0b> ] }
+52.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 20> ] }
+54.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 21> ] }
+54.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2e> ] }
+55.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2d> ] }
+55.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2e> ] }
+55.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 32> ] }
+56.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3c> ] }
+57.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2d> ] }
+55.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 11> ] }
+52.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 13> ] }
+53.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 25> ] }
+54.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 21> ] }
+54.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 21> ] }
+54.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 41> ] }
+57.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1d> ] }
+54.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3a> ] }
+57
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3c> ] }
+57.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 44> ] }
+58
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3c> ] }
+57.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3f> ] }
+57.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3f> ] }
+57.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4c> ] }
+58.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 37> ] }
+56.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4c> ] }
+58.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fd> ] }
+50.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 d6> ] }
+47
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0f> ] }
+52.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 da> ] }
+47.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f4> ] }
+50
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 c7> ] }
+45.5
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0d> ] }
+52.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0c> ] }
+52.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4a> ] }
+58.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 23> ] }
+54.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 07> ] }
+51.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 02> ] }
+51.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 07> ] }
+51.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 01> ] }
+51.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 31> ] }
+56.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 32> ] }
+56.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 63> ] }
+61.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4b> ] }
+58.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3c> ] }
+57.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0b> ] }
+52.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 08> ] }
+52
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fb> ] }
+50.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f8> ] }
+50.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fa> ] }
+50.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 27> ] }
+55.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fb> ] }
+50.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0b> ] }
+52.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1d> ] }
+54.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 11> ] }
+52.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fa> ] }
+50.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 15> ] }
+53.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 33> ] }
+56.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 41> ] }
+57.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 52> ] }
+59.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f3> ] }
+49.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f9> ] }
+50.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 08> ] }
+52
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f6> ] }
+50.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 02> ] }
+51.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f0> ] }
+49.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 11> ] }
+52.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 07> ] }
+51.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 06> ] }
+51.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 15> ] }
+53.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 26> ] }
+55
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 31> ] }
+56.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 15> ] }
+53.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 14> ] }
+53.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2e> ] }
+55.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 20> ] }
+54.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 13> ] }
+53.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0b> ] }
+52.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0f> ] }
+52.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 04> ] }
+51.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fa> ] }
+50.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 20> ] }
+54.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 08> ] }
+52
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 ff> ] }
+51.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f6> ] }
+50.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 36> ] }
+56.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 01> ] }
+51.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 44> ] }
+58
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 14> ] }
+53.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 da> ] }
+47.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b8> ] }
+44
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 bd> ] }
+44.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b1> ] }
+43.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 b9> ] }
+44.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 a3> ] }
+41.9
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0d> ] }
+52.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 23> ] }
+54.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fa> ] }
+50.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 01> ] }
+51.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 15> ] }
+53.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 02> ] }
+51.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0c> ] }
+52.4
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f2> ] }
+49.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f9> ] }
+50.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 01> ] }
+51.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f4> ] }
+50
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fa> ] }
+50.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fe> ] }
+51
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 39> ] }
+56.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 46> ] }
+58.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1b> ] }
+53.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f5> ] }
+50.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 15> ] }
+53.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 01> ] }
+51.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f2> ] }
+49.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fe> ] }
+51
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 15> ] }
+53.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 06> ] }
+51.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 04> ] }
+51.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 02> ] }
+51.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 ff> ] }
+51.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f4> ] }
+50
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fb> ] }
+50.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0d> ] }
+52.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3d> ] }
+57.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 11> ] }
+52.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0c> ] }
+52.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1b> ] }
+53.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0c> ] }
+52.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 02> ] }
+51.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 11> ] }
+52.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 fe> ] }
+51
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f0> ] }
+49.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 08> ] }
+52
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2d> ] }
+55.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2d> ] }
+55.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 34> ] }
+56.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 00 00> ] }
+0
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1f> ] }
+54.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 46> ] }
+58.2
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 36> ] }
+56.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 47> ] }
+58.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2e> ] }
+55.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 65> ] }
+61.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 00> ] }
+51.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 11> ] }
+52.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2d> ] }
+55.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3f> ] }
+57.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 33> ] }
+56.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 00> ] }
+51.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3c> ] }
+57.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 06> ] }
+51.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1d> ] }
+54.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 05> ] }
+51.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 42> ] }
+57.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 36> ] }
+56.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 27> ] }
+55.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2d> ] }
+55.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0f> ] }
+52.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 11> ] }
+52.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 21> ] }
+54.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1d> ] }
+54.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4b> ] }
+58.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1d> ] }
+54.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 32> ] }
+56.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 34> ] }
+56.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2e> ] }
+55.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 30> ] }
+56
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 13> ] }
+53.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3e> ] }
+57.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2e> ] }
+55.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 09> ] }
+52.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 16> ] }
+53.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1d> ] }
+54.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3c> ] }
+57.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 37> ] }
+56.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 36> ] }
+56.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 20> ] }
+54.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0d> ] }
+52.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1b> ] }
+53.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 17> ] }
+53.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 13> ] }
+53.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 38> ] }
+56.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2b> ] }
+55.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1d> ] }
+54.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 23> ] }
+54.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 13> ] }
+53.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0a> ] }
+52.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 06> ] }
+51.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 23> ] }
+54.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1d> ] }
+54.1
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+GatewayTargetDeviceFailedToRespond
+GatewayTargetDeviceFailedToRespond
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 11> ] }
+52.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 14> ] }
+53.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3f> ] }
+57.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2e> ] }
+55.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 47> ] }
+58.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 21> ] }
+54.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 19> ] }
+53.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 07> ] }
+51.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0e> ] }
+52.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 0d> ] }
+52.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 f7> ] }
+50.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 e6> ] }
+48.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 01 d8> ] }
+47.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1f> ] }
+54.3
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer ff f6> ] }
+-1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 af> ] }
+68.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 5b> ] }
+60.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 72> ] }
+62.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4d> ] }
+58.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 51> ] }
+59.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 44> ] }
+58
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 40> ] }
+57.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 46> ] }
+58.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 32> ] }
+56.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 33> ] }
+56.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3e> ] }
+57.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 33> ] }
+56.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 36> ] }
+56.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2b> ] }
+55.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 59> ] }
+60.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 70> ] }
+62.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 6d> ] }
+62.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 77> ] }
+63.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 45> ] }
+58.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4b> ] }
+58.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 31> ] }
+56.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3f> ] }
+57.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1f> ] }
+54.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 25> ] }
+54.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 15> ] }
+53.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 04> ] }
+51.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 04> ] }
+51.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 04> ] }
+51.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 05> ] }
+51.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 32> ] }
+56.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4d> ] }
+58.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 49> ] }
+58.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 36> ] }
+56.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 54> ] }
+59.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 53> ] }
+59.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 6e> ] }
+62.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4c> ] }
+58.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 40> ] }
+57.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 34> ] }
+56.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 32> ] }
+56.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2b> ] }
+55.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 45> ] }
+58.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 47> ] }
+58.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 39> ] }
+56.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 36> ] }
+56.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3d> ] }
+57.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 45> ] }
+58.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4d> ] }
+58.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2e> ] }
+55.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 27> ] }
+55.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 23> ] }
+54.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 20> ] }
+54.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 27> ] }
+55.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2b> ] }
+55.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 27> ] }
+55.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3e> ] }
+57.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 40> ] }
+57.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 26> ] }
+55
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2b> ] }
+55.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 22> ] }
+54.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 07> ] }
+51.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 12> ] }
+53
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1b> ] }
+53.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3b> ] }
+57.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 59> ] }
+60.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 51> ] }
+59.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 58> ] }
+60
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 53> ] }
+59.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3c> ] }
+57.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 44> ] }
+58
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 66> ] }
+61.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4a> ] }
+58.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4d> ] }
+58.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 6a> ] }
+61.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3d> ] }
+57.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 47> ] }
+58.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 5b> ] }
+60.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 5f> ] }
+60.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 56> ] }
+59.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 5d> ] }
+60.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 46> ] }
+58.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 43> ] }
+57.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 5c> ] }
+60.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 46> ] }
+58.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2d> ] }
+55.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2c> ] }
+55.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2d> ] }
+55.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 31> ] }
+56.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2f> ] }
+55.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 30> ] }
+56
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3a> ] }
+57
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 3f> ] }
+57.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 44> ] }
+58
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 35> ] }
+56.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 24> ] }
+54.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 18> ] }
+53.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 32> ] }
+56.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 28> ] }
+55.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1f> ] }
+54.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 13> ] }
+53.1
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 10> ] }
+52.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 20> ] }
+54.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 17> ] }
+53.5
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1a> ] }
+53.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 37> ] }
+56.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 5f> ] }
+60.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 33> ] }
+56.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4c> ] }
+58.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 37> ] }
+56.7
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1b> ] }
+53.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 36> ] }
+56.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1c> ] }
+54
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 29> ] }
+55.3
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 20> ] }
+54.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 1e> ] }
+54.2
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 43> ] }
+57.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 30> ] }
+56
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 2a> ] }
+55.4
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 68> ] }
+61.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4a> ] }
+58.6
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 43> ] }
+57.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 42> ] }
+57.8
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 61> ] }
+60.9
+Success
+Completed
+{ address: 263, value: <Buffer 00 05>, code: 'WriteSingleRegister' }
+{ code: 'ReadInputRegisters', data: [ <Buffer 02 4d> ] }
+58.9
+Success
+Completed
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable
+GatewayPathUnavailable

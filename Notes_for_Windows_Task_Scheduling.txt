@@ -1,0 +1,30 @@
+1. Write the command in a batch file with full path for all the files.
+   Example: "C:\Program Files\nodejs\node.exe" "C:\CambrianBackendProcessing\index.js"  >> "C:\CambrianBackendProcessing\backup_log.txt"
+   
+2. Create a task/basic task. Write the batchfile with full path in the Program/Script field. Add args or Start in are not required.
+   Note: 1. Directly writing "C:\Program Files\nodejs\node.exe" in the program field, and "C:\CambrianBackendProcessing\index.js"  >> "C:\CambrianBackendProcessing\backup_log.txt" in the Add args field did not work.
+         2. Writing C:\Windows\System32\cmd.exe in the program field, and 
+		   /c "C:\Program Files\nodejs\node.exe" "C:\CambrianBackendProcessing\index.js"  >> "C:\CambrianBackendProcessing\backup_log.txt" in the Add args field did not work either.
+		 3. Writing C:\Windows\System32\cmd.exe in the program field, and 
+		   /c "C:\CambrianBackendProcessing\command_line.bat" in the works. (NOTE: /c is needed to run commands with cmd).
+		   
+3. a. Set Account to user (Samsad), Run whether or not user logged on and give password.
+   b. Set the schedule as On schedule, One time, 5 min run indefinitely (This solves the task scheduler not running issue).
+	 SOLUTION FOR TASK NOT SCHEDULING:
+	 https://learn.microsoft.com/en-us/answers/questions/311558/task-scheduler-windows-2019-indefinitly-task-not-r.html	
+   c. Tick Wake the computer to run this task under Power in Conditions tab
+	 
+Regarding the use of process in the program to access the process' environment:	 
+4. If the program (eg. index.js) accesses data from the process eg. environment variables from the process, then sometimes running from outside may give an error.
+   For eg: process.cwd() will give a different current working directory where the process is running; if it is used to specify the path of a file, the file could not be found.
+   In this case, hardcode the location of the file rather than using process.cwd().
+5. VS Code uses .env file that allows us to store env variables in the .env file that shall be automatically set to the environment by the VS application.
+   When the program is run outside VS, the variables are not set and could not be accessed using process.env; COPY the values to constants inside the program.
+   
+Regarding wake-up when computer sleeps:
+6. Control Panel -> Hardware and sound -> Power Options -> Change Plan Settings -> Change advanced power settings -> Allow wake timers -> On battery: Enable, Plugged in: Enable
+7. Control Panel -> Hardware and sound -> Power Options -> Choose what the power button does -> choose Hibernate on all dropdowns.
+8. Make sure #3.c. is done.
+
+
+

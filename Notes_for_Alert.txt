@@ -1,0 +1,4 @@
+Reference:
+How to avoid allowing gmail account to allow access to less secure apps?
+Instead turn on 2FA and create a password code to be used by the app for authentication to send emails.
+https://edigleyssonsilva.medium.com/how-to-send-emails-securely-using-gmail-and-nodejs-eef757525324

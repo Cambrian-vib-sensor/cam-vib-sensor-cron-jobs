@@ -1,0 +1,1621 @@
+{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b62c2f95f7f8?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b62c2f95f7f8",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 74 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1777880dye;        Sat, 30 Apr 2022 09:51:51 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a05:6a00:1596:b0:50d:4bc2:467d with SMTP id u22-20020a056a00159600b0050d4bc2467dmr4388130pfk.44.1651337511831;        Sat, 30 Apr 2022 09:51:51 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651337511; cv=none;        d=google.com; s=arc-20160816;        b=QteCYKd16lX8NynmsQN6hiy4FtGCjbzR6KmtDIVfzDYQhpHmJWHAs61e8m5LGZMNfJ         9mmbnpT5z9i/6HawyHDiJyWtAhJ9MONdTP44v22V61BivNGq2gTQvx4BqQE0SrdTut7+         VYoxLQMNEay1Qjdbuerlx5eUGg9c7tITNbnFv/uf88rYr8MYYtg5zchGgIyzdf9LK++w         +3/JNbLvEhIP126P/1aws+63zF8Hp+Zq19+Y1DWDBs7G8dJckibRuF5A1XKO0+2Om/kY         1mOUH+Yqz1tyDDdIE85VC4X6rcrBCiMjPVCQRY0m/I8zvFgknGWVG4UaC8jA5G3r5L8f         fvIQ=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=CrenN6MchRPxKz8553gbwmoSxFzBOHtX1deG3xhlXUo=;        b=vVBuAiu+BBSFdx+p3oq46EShe1Ee89INzOxp8GnZPWE5JqSbGW+KTinzw5ySs1cZM8         UVAIw+MdS5gsogMGYMIsjQKPlwmg3gecqP6CdsVr9hpj1K/QYyhUTTuqi/X+Fm/q2xyQ         W3y6PNaGR8qh2Z1Vjv7KWBO6oUW4O0OiojP9fSRvI5ZpedYegjvAmuDI7mM11GspUk0s         n+bmw1rGK6j7wBDFL+aNKM11nnBu+8Lm4xCNcENZCY6x2Rin8xWT8+Fi8VlnZllcBKIX         Fe8td2Fe09WMcN2g6Jutz1E4bPdaQCa3XwWOF/igQM/jh9fuRbFYYh3F0Bc9LcBC8ZjC         fCVg=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=cbM4IF6K;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id x25-20020aa79ad9000000b005058ab4a744sor5345894pfp.7.2022.04.30.09.51.51        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:51:51 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=cbM4IF6K;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=CrenN6MchRPxKz8553gbwmoSxFzBOHtX1deG3xhlXUo=;        b=cbM4IF6KRj//xJZVCIeK4tewZtgPtv+XsdZWBMm94bg0I+0gpi8rmyqlTnbYkNkulR         o06+79yk+XYiBg7Z7YS3L9toh41kTkw1vonL0YW8x04H9AnelWSMqweHC63hReQOVezf         fEq1Vkj+6FAJzhlKJxq9fpnfxxj08Ze58+wuo14vOfxTWHO7u3Mn30IFa4hlZTWZOT66         YGRIP60DuuSDn+4+catOHxFiYkutfpl8r62EfFPj5hg6HQBc64psbvltX9IiBrMdL2OG         n10V8M/1rMn2DAGoLHuGW0T6p2rEHbQIBBUupiGQnWNTxpQZVxTuLtNEzaiK46Cbh34i         QNyA=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=CrenN6MchRPxKz8553gbwmoSxFzBOHtX1deG3xhlXUo=;        b=E7haT7uTryaJrDDMF2p7V0W3u7Thqy8vT2vKzQ0TunTD/CWBVDUKz2gpf9PPiygiH1         v5pOpmd1zYO9NNSlva1TcARuqqd04lz1lqm4lIY3WTVvIGDd4msrpQOKj26K88ywhaaL         w+r/G+JXqVNk63hIPpW41CZymLHw9xTDgi3GtcqRiGTRGThRQB4B/HW6RIw+pdOMABHU         RDxZ0qQO3ggS4OSIPWn67j18QB4vC+ijG2efbLsFkWB5qvMyJETXOoAnhSiO1INc87QQ         nl/hjr66xIEjshxrL/yr8yN64e+z6GlZyvHdPQvli/QW8tF/01QhRNKQOKuXTDft8xG9         CGVg=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM5309on7551bjR1b1Rdhnqj2OrPevQE4WWYvK/Nf1PGsn4I+4WZER 5l+CLqjNT2oazGfP+JgpCK7gRUzscVQ="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJzGOWlmeyMs8TVjQuidxjHjjoQUfrhy3V7XPwRn5ZJRMUTzMjs+AqwbSXS+l3x5hPqL6Dhvfg=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a05:6a00:1788:b0:50d:6b21:a0d8 with SMTP id s8-20020a056a00178800b0050d6b21a0d8mr4155104pfg.25.1651337511200;        Sat, 30 Apr 2022 09:51:51 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id b1-20020a631b41000000b003c14af50631sm8538554pgm.73.2022.04.30.09.51.49        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:51:50 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d6926.1c69fb81.8ab3a.49ca@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:51:50 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 26,
+					"data": "VmVsb2NpdHkgLT4gNzQgRS02IG0vcw0KDQo="
+				}
+			},
+			"sizeEstimate": 4901,
+			"historyId": "3349018",
+			"internalDate": "1651337510000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b62c2f95f7f8?format=full"
+		}
+	}
+}{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b5de61cae624?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b5de61cae624",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 102 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1775434dye;        Sat, 30 Apr 2022 09:46:33 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a05:6a00:2310:b0:505:a8ac:40e7 with SMTP id h16-20020a056a00231000b00505a8ac40e7mr4430344pfh.11.1651337192971;        Sat, 30 Apr 2022 09:46:32 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651337192; cv=none;        d=google.com; s=arc-20160816;        b=iHIicTrARoEoii+gD26Ajrdt4xsoyorBDs1Re791lKSdclAtdhxDQ58FO+Irs11s+M         InIyvVsrADyyeCX6W0axQmqomxdYMVoJ+5OYFx1Ssg83nqgxGnLo4sElaY2mLea2jyb+         t7yNf849fj4xKR4SCr5AgL1dVFIWKSt1nCFIA6hVOTZmphHQC/vUn2wwoMdIi5CeBE9/         tKjIvc3ehg3LBMdAlNh9DlugOjGAkxy5my0IZilViddcD5v8g8WPSFXfG5KYQAhKpT+A         ML5RrB7zTmKyUoHL9rPb5ishi8kB5Dou7HyAuuiwq7r0KwizDM2a5+FGAEy3yOA4JE6L         NDDw=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=MrTEtb3EwXbp0rYU31CnKxqs2eWfTlt0f8RB5u0CQ2A=;        b=YvIwrk3ugFwVTJgthEG6bb3mDWdkp9fVH78LB14pnEgGtAWU0OVevpxBYvyfXZt0aV         LtbRLMWjpw9czh8D2A5YWzFVa7E0aXhLWu4DSt6mr3VanRfmxd5C5fyKxsSgw7+25YIx         06EhSn8/j5Jmgi7eF6UcUZXO1JhFksegdvvncPCJLQmYy4OJKZYxeQjrIAtYQy/ps4Dd         8DdAFq536vmfdkuU+8G3KZ4L5lT7Q3KjuUTNMMIRAgeGMISm/ZV7+0jOuWrrVqjqCNFR         7qQbXzV5eqz1gM2akS1SJkNsQDBRHic/Lb3FAAUNV9XyVKno62m+DdXX4SaMKRbnRf8F         tBLQ=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=WRsWjtuq;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id nk9-20020a17090b194900b001da35d6b398sor4423204pjb.33.2022.04.30.09.46.32        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:46:32 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=WRsWjtuq;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=MrTEtb3EwXbp0rYU31CnKxqs2eWfTlt0f8RB5u0CQ2A=;        b=WRsWjtuq4hD4LQ5OsR+jF6g/kXBlMa8yIMCRQv/XTj24Sdbqi89WgUR9oFEn1QY6CD         Ys0R/EXIq97Hb8D0YCOL8F0MFQBG5aXvYedU9ZERcRGVsf9taU1nCuClb3+zFvh92SDY         x/2HNWRj/qBro7Z59gGgx5MfIDyxPxdviR470QVsT8M9vy9+RlY/jhqNnk9qFDwXgVa9         KrUepy3Azjw6IWYSaGRZRpWvCmcNGeSl9gHUWY5/RNgH7pLpkTqPg3mFV+8JSzfNc9Eh         X3EVBQJ9WnJx3QCVjZD9KFH+627Dcx4WPw33/2KfrGmUPv3+uPMHqf5bkOGIAJuLdE9Q         EqgQ=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=MrTEtb3EwXbp0rYU31CnKxqs2eWfTlt0f8RB5u0CQ2A=;        b=IkL+XK6gJoh3ZNuHsr4sonqFk7S48x7dqrAyOjR8BQDOIoNMJFujrX7owuXUmrdKSD         m8mou/ID4E/5zWxS4peKVQwSJOGwnUi6+yfXc2tBZ/SnHp/PephD6RcSk4BSsVlaZGGy         kKWXREFIOYzD5XAOc5owj775oDbNiETnqFfISbXPjc9sR8fUEQMD/md4hEZ/UuxwD2D+         nKdoNPzS6ciGFg5qftPMI6BEJn/D1Yxd/tVk8NpEX1QzR2AqsHUDIHOKVDF3+qa26+nj         JtrWlmfRcN9vljaQBjN4kgd9InAcXn+Lb+bJPe+ZZxW8BQeNGqkpcKZ9/IBPMRF6qlrY         lL1g=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM530EhfUFvjsyCni+1LGUH6aMDmS1Ixk1mFacWFQad/6HmfY60i9z c37TkpuNPeggIVrSLz41Fg+vNq+cnFo="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJy/ocOHeV2EaIvq6f1cZFzY8BxrKyA8Gpq3ZpjrllcMSK9rdUyprR466MhWA68ufiCcfJd2yQ=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:90b:4c47:b0:1dc:3bf4:e3b1 with SMTP id np7-20020a17090b4c4700b001dc3bf4e3b1mr1611222pjb.223.1651337192360;        Sat, 30 Apr 2022 09:46:32 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id c11-20020a170902b68b00b0015e8d4eb24esm1683051pls.152.2022.04.30.09.46.30        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:46:31 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d67e7.1c69fb81.507fa.3b20@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:46:31 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 27,
+					"data": "VmVsb2NpdHkgLT4gMTAyIEUtNiBtL3MNCg0K"
+				}
+			},
+			"sizeEstimate": 4906,
+			"historyId": "3349018",
+			"internalDate": "1651337191000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b5de61cae624?format=full"
+		}
+	}
+}{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b4f51c9f082e?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b4f51c9f082e",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 90 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1767602dye;        Sat, 30 Apr 2022 09:30:37 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a63:eb0d:0:b0:3a2:ced0:31ef with SMTP id t13-20020a63eb0d000000b003a2ced031efmr3664732pgh.594.1651336237125;        Sat, 30 Apr 2022 09:30:37 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651336237; cv=none;        d=google.com; s=arc-20160816;        b=E3yM7XB2sUk+PySuuQ7nGwSk7iFxzk3LurtFv27LYWaozKPSGBjiiKbW5I6fuBcp6B         oQxp11bEVYbUsZAMAwXENXlftLyGg3KRvHARH+qu73SRbLfQ+p2HL8ULjt+fhNVbeBPg         pK06Z8awnSIODBLeXCu8K/VEx3o+JOAqG/TN4Za417d/XNBr2nzClxHz0heev4qGcS3G         l2oQ7HS9dGfAmHxRANEsd9plWeiorZlDq3eNEPYTqQmlvCDbGeVifRpBYwUfBjq7nUkq         DyrFr8W4PcoPPk2TvDYAHC314fT7YSDwoDW4JDBQ1/rCfOpDu/wJa5S6+s6Tb+WHvMdv         /0PQ=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=0Pc7DkWgRUV/EIGWYl0t3kxU6T9Dqnp8v9copgDiddU=;        b=mJQrujWdjDNxrBLqZoJKd4KwlRhhn6SIvu6BFgB10hOVRZqiKS9g75nep0C5K9KLaF         plwgF4/cZp12njIwB6hEDPqjsSEcfjIbWrKf2nRR9XgtkoiUm2wMsxgpmRuQLFwtcWhF         7l24Qyj97ghjbeFiPAyQETMZPAevhig6AhQJotiRuuCjbYvXMypUWgFEOeSXQZ8eoI/J         K0hs3Q3I6aPZfM+I2UKJJqCDYMRByi5I1yYWA9kjOI2RtaVTRGF4e6EvdtbZ8Tk8Hpzh         NHNwyvgtMkEGGD3hCkJctkfakEA9RI9oJ0TNSfqHkoVikDy2pVAAZxcDIanm1aVc2ajF         nQrQ=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=\"ZPdi3y/i\";       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id a4-20020a1709027d8400b00156ef2cc803sor4471157plm.112.2022.04.30.09.30.37        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:30:37 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=\"ZPdi3y/i\";       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=0Pc7DkWgRUV/EIGWYl0t3kxU6T9Dqnp8v9copgDiddU=;        b=ZPdi3y/ifEoEjVD43gd3TN3e8LDDRAiPs/9pQ/m6Kh0zts89WTdEMH9tMlhD86GF1U         qi3t8ftQEYZgluxdLM4VVFor/yn4UpoAdR67UwRCgfonlVNvh8bnRpK9lmI4ppla7dVG         LsHWh6rgVLw3LnWhaNS7g6s8a2cPw/a6Nx9B0pUT5pmz+odbVIFwGT+spRyuYaV7/K/o         KAy9q5F7BTDTmqjHzU/tzf04gRnULW1szA37Qr/Pc1QB6h3C1MbLPhmBxTT2xB4gIBIt         RFFPZ+EY6BXnk4E2ek+cPZcgJjeK5ehXrk2X0zJWa3Wt1d2GMoXH7dx0dIeXHc3iehoK         2wcA=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=0Pc7DkWgRUV/EIGWYl0t3kxU6T9Dqnp8v9copgDiddU=;        b=NKomwsehunmYLgDe/LyVOruhgv4bhmMxOhZsATZ/u+9LYhIVj/tA46heJFnTggXKYh         r3GZr8jDonsbATKvlSo2Y9MCV09N8R4j+EqsIhqcvhlNcFTUyIwPhiIXpDAyWxsbxW76         NCFV0LRbQLueB7AevDvVZxRltwteTan0akgzp8ATA1HcbfuWQsvm1VXbGgsa2kvYSlSA         Q1ZXvRcKP05LDRRh29IXCIQEc4xTQTFXCyuHGbcXJdGTYwOEHPcu2Sey6H6kWmExTZCL         OZkEwxmuNpOcuGPr97tWF7ze5U1hoPHD3OFLcJ4pyg/VjlAdzKKfxjnk8HUkQQNw6bZ+         fb4Q=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM533laWBm0t4yGLDeNpajJSbsmPHMfYI8tiSo+j1V04DHIfTg8N1X wAawTd6fc8Uww8F7yxFL8wRM+gNXo+I="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJz1UX1fYLzsV0Ee45fMilLH9ga29qGPmM6nGv8lc/ittcHXfFkZ4WQmHVP6CijeHaeeDcqqsg=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:903:30c3:b0:15b:4232:e5d2 with SMTP id s3-20020a17090330c300b0015b4232e5d2mr4430946plc.167.1651336236491;        Sat, 30 Apr 2022 09:30:36 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id u9-20020aa78489000000b0050dc762813dsm1727982pfn.23.2022.04.30.09.30.34        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:30:35 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d642b.1c69fb81.1f976.3e6a@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:30:35 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 26,
+					"data": "VmVsb2NpdHkgLT4gOTAgRS02IG0vcw0KDQo="
+				}
+			},
+			"sizeEstimate": 4904,
+			"historyId": "3349018",
+			"internalDate": "1651336235000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b4f51c9f082e?format=full"
+		}
+	}
+}{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b4a76e68d9da?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b4a76e68d9da",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 65 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1764905dye;        Sat, 30 Apr 2022 09:25:19 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:902:e742:b0:15e:9a7b:24c3 with SMTP id p2-20020a170902e74200b0015e9a7b24c3mr349512plf.17.1651335919130;        Sat, 30 Apr 2022 09:25:19 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651335919; cv=none;        d=google.com; s=arc-20160816;        b=WoKUtO9yn9cdWKxHnvqBGZc66cWXEaxnceixcoCCuaO6fVei+oLe42T+w8vytYqCHt         7llrd35qWWbuW1dPkeI4rx0g+39IvoxqeLUcytU2/eY/fhlh/DYXpdWy88eyzTTDGuNt         K2C5YzGyCvKU5skEO8Ey+Al6MYKWMgsDXbPEJUvA6c2rOSIHW3TkTqcpRt+dqL8H+wpZ         kB4Sk8owTgHJufzuKsK9eTGm1VICYfEcL3zUMN2t+E6oBm7bHSeDOQXduto7L9AL48qT         E77WHDRCSF9g9es/D/Oi680c9+l9BrBg8WuxKWEiRZ5dRdpQLvln5kEbam4rl3bfo+Zh         GBVA=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=MqhU3z/K8SqhVqYyffFp9NnI5G/OWnjUMjg8YpkCbwk=;        b=V67Gk9afwFGbSayuWL7pwBiDYC5rUO9lMc2lU2K6a+pupxLrtvidAEC4Exqq2nm4sN         Ypcx9DCARbOOSUWaejUWTTlwhhL0F8+eb5I8RiwcrG2AwmmQeqR0p0134HINlhCkh6cE         qQH55O8D1whspG2r3JpDkRrsPPT/9BVMRfrh+0boCJ7tc9XBDAC6gJBnoxAx4NcWio2+         iCBigPpfTs/j7fqht2o3GBz6jUvfQZI0iFk+PyoruaOMYdExKYRXJhL5WzloyiVGtXPf         cu9I/uPiCKXOFMGH+CqTeW2J6WdALgOIPWybUXblyHuoCVSs/GH+FS5f1ZE2RrmH3BZc         WXEg=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=BVtKcJMU;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id i128-20020a625486000000b0050db7f22f8csor1989339pfb.36.2022.04.30.09.25.19        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:25:19 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=BVtKcJMU;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=MqhU3z/K8SqhVqYyffFp9NnI5G/OWnjUMjg8YpkCbwk=;        b=BVtKcJMUk7Dd0BQlbtXsb8wgzuVc10P67SNSO7ZSJGBof8J/s0LaiPOVzJWyo+2ai7         hJvotmbWWd4B3Z+1StjLKWTU/VdHjWhUMg0f3Bsdzrm1IDPVbzM9WMDdforpFv2tp64q         3HfpjxDvrGeHf4mzPNQmCZiuiJcQeNTjGFuxVauswEgofL9KJ81bnpnQeom2yhCTmHs9         yfragHhS5FWaa5yUi9Z+Dk+8ICh1lV16L1XrTFKaZ6xbXDb/VjGTu6oWZrXeLF70NRCJ         xO/c/0H6J57yBxCx0sdQgS4WimMzcB2TX5Yqx1WpT7xw8eEAjiicvidT6W/Tjk8BPxA5         i97Q=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=MqhU3z/K8SqhVqYyffFp9NnI5G/OWnjUMjg8YpkCbwk=;        b=ENH1IVIfH0xnhkErXluexA9kZ/1s/7bcENpIwWas6wDtXgvh5mumlx7IFYnjge8FPP         XES9P2hwoi2oipsHdZl5uaVS/DNK04DRwcCnnlvBkUbMBuMLV3wIJ9bnf9I/lCmJULnF         ycMCfxxQ4OwDDWc7WdVwxq1HDDoeeb0JAEno1ayjaHr2eevgOSK/KfNczuOUxUJzzQg5         ti7fANbOv0m/EbXPNsEllugjXBVgW26TVzOdIpmJspe3AQOwAnFofP5HI/bLl5RR6EHw         aO0VhI/3hLVWPCCTxzh648uI0ZWJeaZnvclkRTnDs+27vgl1aMc0UukMAEXNiaAZXrjb         FeKA=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM531Z/gHxFIdMbclAesMFaTCfE77qZyw4Ocb9yNo+X55edPFQXBZm UzGlriNyJTWv2a/DJhe7hzIzor6Yi+M="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJxzPDb2WtXLB+YuamJbwDgs6yw6hxxlAMm0i9T7BmRx4JQhd+MgneDIbdVL0WVaUjKXWtuLKA=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a62:1850:0:b0:50d:2398:b43b with SMTP id 77-20020a621850000000b0050d2398b43bmr4299794pfy.59.1651335918486;        Sat, 30 Apr 2022 09:25:18 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id g20-20020aa78194000000b0050dc762818fsm1730604pfi.105.2022.04.30.09.25.16        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:25:17 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d62ed.1c69fb81.78f5b.3df8@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:25:17 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 26,
+					"data": "VmVsb2NpdHkgLT4gNjUgRS02IG0vcw0KDQo="
+				}
+			},
+			"sizeEstimate": 4899,
+			"historyId": "3349018",
+			"internalDate": "1651335917000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b4a76e68d9da?format=full"
+		}
+	}
+}{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b459a020c2e5?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b459a020c2e5",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 83 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1762325dye;        Sat, 30 Apr 2022 09:20:00 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:903:41d1:b0:15d:45d8:8f77 with SMTP id u17-20020a17090341d100b0015d45d88f77mr4245168ple.25.1651335600648;        Sat, 30 Apr 2022 09:20:00 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651335600; cv=none;        d=google.com; s=arc-20160816;        b=hTzy2iGpymP3gWVBMwcowtLKlHYzH5JSjQGczZdx6mVoNsJt0sncB7vPuKVnz57qUq         fFYtC/0YaqSA8Isp4DFCTqY3GgUiPfo7PobbACLF1mCAGq4pc12eL7DFy2Y6fw+0A/0B         /mBWducPgfPD8zVnDZOAlbseLKHV9KlNf/QA27XgjFpZdTnPdK0/2N3Ipiyv1jjk6ZhA         v6daTcUJGRX+9eYWRTFYlnEFBQzWKRHgo//HOKYaD59TaKw5wa+kf1ihipvqNwBIsHl7         IuRQQshOjQpPv1X6LM+hwBNpkn0DgT1XwIfMgiG9PWQrQjOyQ78jRvj9yZpVLcS4UPFV         dUqQ=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=2j+cvSMUI6/gxXiv8RnoGcBPC5ZOVgPodK+iUULKIzQ=;        b=Y1/cmSYhfkTF21JHB/9H/NGBLn9tUWptCn1n0dXyO8qRv6ZedkjyFrSKBjncFujAfv         nLAA5BYMSPp0gSekY2V3nOK7h0FMS6QiuH1jmS8fzkzUrALSHzNCmBlI6egwFZy8VQjh         w6DHExGHqzNIf9mBGbuncQq+IyjYWmLSHMbeH25gCDaukZcdIXyDoveqgwiTKWNidkZP         HufSI+lACMPhkcrWvWtWm1WG/O9/H58Yb8w8xhflPN3Ge+ZaCdQfwU3srDNi+rMzoogi         fypLutVRb83Ou2QOapl1JWsH2DJP8jbd9kfnlcD2VftRe4ZXK5AM7quGPna6rYA4x/Su         2kHg=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=dYePjQmd;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id j14-20020a17090a588e00b001d95cb1a99asor4414718pji.12.2022.04.30.09.20.00        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:20:00 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=dYePjQmd;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=2j+cvSMUI6/gxXiv8RnoGcBPC5ZOVgPodK+iUULKIzQ=;        b=dYePjQmdZPBE0i/lE2vYKYHDg1ELjn8nTgbUd0X8FOd3g1SujeVYaoEHcwPnlpnbeN         txN3+EQC+zLxtiOTrLXHrW2WW7eoXkca4dsTncFuA7cldjL6FNj5e3xGcJpQYLvoquJi         OxTcJ5v8YLAyNFR1Z9RpBrPN9V15EOgfq/sHfjjdRuaAH5ClBayRjRYKAP0xORNvN46q         o7WnPwOqN6/osXWJcezL+jE36FmPWNoTK5qvqOc3UCLe62ey2TPl/Z65JWBMWCQ4OoN4         a5Cp7mOA2d14VaT+Ly3DUTyOaPoZzpY6nkMuM/xegi+ELuwkeQmQzkTHenjs0mgClod8         xqkA=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=2j+cvSMUI6/gxXiv8RnoGcBPC5ZOVgPodK+iUULKIzQ=;        b=6CaRp4OEhekWGdC7YA7P85pnvghV4DOYTnY6pf5r8MgGKFL6VLacOvIzQPReCuR+pe         okRK1Aa14CaFC/sDqJ2PMsYGga3PQl2tnizspA9xq087XRasp7Wzoz6DRk1vIHGB/ZXr         UtZ/1wggCyCDYuKOXdXJ7ia614xeBS+UVV3a4YT4omhuGnsi2sEUuT4V8twb7VgRfqO5         p/K0flkXhhlKN1uRnHzc637W4RiDfIYeKVEBtQjG4HUByb1It7Q4ogExbVL3pNvG7UPJ         i5AaJbnb6owjKo8DfsNkKf0TY14mHnh0ZHhA4WNYTUHBo6tQaSQpeAcLBinfygU8mrfB         QQig=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM531+fwp1HGgO/IQqFGVZcfmNnE1xuT8mZBo84AYZZ2K7MwOEYX8z krC/LGVJfLCp5RyLEkUCSS1ipmUKV7k="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJxhOBCzuIsOOTuzjFce30ZlJxdNelJZYkJGyRsnD9J15xF1VnN+OrHKJaxUNrkuJ/jAIrnVcw=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:90b:3e82:b0:1c7:2920:7c54 with SMTP id rj2-20020a17090b3e8200b001c729207c54mr9725673pjb.2.1651335600018;        Sat, 30 Apr 2022 09:20:00 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id y1-20020a1709027c8100b0015e8d4eb29bsm1689135pll.229.2022.04.30.09.19.58        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:19:59 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d61af.1c69fb81.31a8a.3ba3@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:19:59 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 26,
+					"data": "VmVsb2NpdHkgLT4gODMgRS02IG0vcw0KDQo="
+				}
+			},
+			"sizeEstimate": 4901,
+			"historyId": "3349018",
+			"internalDate": "1651335599000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b459a020c2e5?format=full"
+		}
+	}
+}{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b542a19d2ea6?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b542a19d2ea6",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 65 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1770385dye;        Sat, 30 Apr 2022 09:35:55 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:90b:314d:b0:1db:c8b6:e9d0 with SMTP id ip13-20020a17090b314d00b001dbc8b6e9d0mr4820257pjb.99.1651336555231;        Sat, 30 Apr 2022 09:35:55 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651336555; cv=none;        d=google.com; s=arc-20160816;        b=rrgYumniFkMu/dLbrtMODvAw0T8Num9bPCwaCS3/g82eeaqA8YBZwZq8akjhRWTB2z         Gt1peKP+vByN/gpgvYwK1+fMI8G9RqED76xX73nZctU5kCwD/xSblJb8XwANA8zhe68L         QmJ7rGDR1tblWIkY8EmDeQLLZVM7TSM8b2cH26XnMuNQ3rU+bj0Asic9fdNRpPK4xvXZ         v8bMFZxr/8ROww0Nw5TTlAmj0hrBfJ5ROzI+pXQiyozFMP+NamvrrBuDqIpp2nhIeQKZ         hPCPF2j4buXnC4pRQfjNhPf8PEwGND4Ja0oEBbsunpcKd1o4AwFUxqq/pEfFanAxGG3I         tuNg=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=MqhU3z/K8SqhVqYyffFp9NnI5G/OWnjUMjg8YpkCbwk=;        b=GyJp8USqTuJtXQ9AL7/VZ43id+r6ym+MKg0EGjTkj7o3ksFLLaF1iUKiu8SrRm0g8Y         lAi+j/Dy9Ro9UEgrTm/B7xXTWYD2XKgJsTaiEmK4mlF8vSlioMCizMpjr3vtia94wF79         UxH1nKBVv3PqtvsaqQDcEZf/NQHf4ZBkMJqQZvtWBsEzPiulapI1+m/iXo91D9FvJB4W         XHd70ihiIkfAqPPcihCHMK5P3HPeGbuWJ6C5k687U0oyj5/sSFy3WCQnjP7qRmsnPT8d         l2nMYIMoVAQIxXtCwF6/IJ/S0rR0TMHDDIcFnj2Ia9DCPQCkmQVye61IGdzm585t0fch         +uAw=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=J1XlqL79;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id z10-20020a170903018a00b0015ce26f98d1sor4615467plg.166.2022.04.30.09.35.55        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:35:55 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=J1XlqL79;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=MqhU3z/K8SqhVqYyffFp9NnI5G/OWnjUMjg8YpkCbwk=;        b=J1XlqL79rtFB1bSwSewu3mSCcYbeZBgkI1bYCaR347SpEd04tplkH8FWaUGR3ynrIg         7bBR0ZCtJ1bxstUIjBqErRrQNrQbK0bxVp5+qNiVbfRPPANrUu6VfzkTlyTtGXCr3oAm         5Dkg0nN+/p+wRDEHiFa1w/sgWLafh9jl3fw6x6NjHBlAA72hkHcmhxCxefqViDgkw0if         61sOtO0v2WSCcHMeh57gHFbwNGsCOklYpgoZc3m7HTQMMRL/cTyMz1rg1fZnGwUr2tKD         jG6x4gitFx4yiOQkwIcMSCCR/ucY+99vAdvzAFibN+BY4Hz1aNKJ4EHJNWAhNXu51xai         ZIGw=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=MqhU3z/K8SqhVqYyffFp9NnI5G/OWnjUMjg8YpkCbwk=;        b=BE+jdbYk45N/rHAFdNBbk6Ev/H1AWcelw/v/tkVaZNWTmXiDyNZUb89qYHm8FJGVlS         RSEvaaAeqiwI+Bco1J/kIlBVySY2P4nr/YdJFW4uxz7kFlsS84IAkCy1yhkpiXSzwQyD         d+YpjLqpwzKQO9DUEiFgwvAgdo/d02mHGbKgsm355CwcCdkByxzCrEHNOq6XIlhpRowK         x4lKzMM67hrkWRS3k53OBDTwNMa1WPS+8Jhbr6CUv0MxGeOKgDj6D2hnQdgl6g/JGdPx         /QyDvnEpZYrd/f/kea7Wt/GEwY+ixK6YdRvYpJxbZvfHek5J49WYMERX7fee5nVPBUtT         WdZQ=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM532H12QwOxapjnpXTiHapqK3RlVxRJBDcBnK1lA7CZJfrukFMe9W P7udY7lLWCpdMm6oNiuIYlC9CSlZrjA="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJwqO/0IjXQq/ZqeJogGsEO5f83vqTgkxTEQEAU1tfdxexENICK2/TUfrbhVdgClgR1dJmk0/w=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:903:2352:b0:15e:5aad:af5c with SMTP id c18-20020a170903235200b0015e5aadaf5cmr4404797plh.116.1651336554657;        Sat, 30 Apr 2022 09:35:54 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id r11-20020a63204b000000b003aaf27b5ceasm8036520pgm.1.2022.04.30.09.35.52        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:35:53 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d6569.1c69fb81.b5802.35f3@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:35:53 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 26,
+					"data": "VmVsb2NpdHkgLT4gNjUgRS02IG0vcw0KDQo="
+				}
+			},
+			"sizeEstimate": 4904,
+			"historyId": "3349018",
+			"internalDate": "1651336553000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b542a19d2ea6?format=full"
+		}
+	}
+}{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b5907e0864a0?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b5907e0864a0",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 59 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1772853dye;        Sat, 30 Apr 2022 09:41:14 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:90b:4c4e:b0:1d2:9f85:66b2 with SMTP id np14-20020a17090b4c4e00b001d29f8566b2mr9751176pjb.128.1651336873980;        Sat, 30 Apr 2022 09:41:13 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651336873; cv=none;        d=google.com; s=arc-20160816;        b=X2tlt1UzLfP4AG0y2FlPeBwnTnZ9ZXi0htk4YFcnIKQe2CmhwYG2cO3LlY+XhQPQ5q         J3XP8OscIh6KAedbGcBfAMtrlhHAUyxsllFCjxbKk6gle1MxIGpYkRToVm7/6oBingTE         DlXPP3ls5B4z0w4Pa78XTJ++MgLWN7lfvsMNI4fg4Uxqjtx7K9x/L6nSDhrez57yfoMy         kQJmRgI5lEAHz2KDDXA2P0O8McDdTv5zooL5hzfNt//z+C1sxPZd+ddklY5eHOIT4XSt         t9KhPJzqvRX1sTIX4MCvLcG+SstTXm6rRw9S5t/3PjDoh2/uxGgx8H6L6vc1Ydb1+qgX         zl4g=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=k3ZgA++iuBzgT89mZcGSWsoR5IuNnBQGK9ix558BmTk=;        b=mbxL8P0lfNNyjXcOlrP7GVLtke3punMzdQVSD1dZPAE2wwDV82fmnocyoTYwF+a2dQ         Qnp1uJZZKlQHtySOVsyttwFoK/xz+wGARAbxqPXKMxT2P2YpuVRuMWyg59mmcDWhR05a         Ue152o79edTgF1Ty9CPONvQcNIEXcXApll38BE1uc91epGFJ+gjUjdI7hvoTx7cnDSN9         Y7RASrboULacPuui+O6jGpw19BtL6oIk3XLPdXzB9cpb2hyOVEGw2jAV/xLSns0boH3P         dty1F4hiCIWA446OO9KSTc3vTJQvPZjuAuvUGWGlVmQ48JrFLsMCmYytZrDbyUM7cgU/         MoQA=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=\"ObgQ/wlK\";       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id a14-20020a170902ecce00b001565c6eb9edsor4736620plh.33.2022.04.30.09.41.13        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:41:13 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=\"ObgQ/wlK\";       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=k3ZgA++iuBzgT89mZcGSWsoR5IuNnBQGK9ix558BmTk=;        b=ObgQ/wlKExez/x3Gz13uc9lu9auJszcmQ+YGqb3H9K47QjauOpkgXrElzeVvW27cnL         66N6/Ug15NJmaFD18vpZ14/I/1shGFb7mdQJ+ewEZ6sMFEPqnTUZqwf5oM1DUdDuROWV         HTrcDenqLXEodLsLRHMW0CYWxUI1F695kZnCUd+klg737cdJx7EUPiqKzH2lJoZyXjaw         uvNb2f7/a1oIpc/yAkm+oLsC+KElDi6rvm3ThruzAQtPw8VXosekPB4RAg40hg0wtoS3         tX6IBMKw9XUeqOBqSUAEVIrCovX6XTQDoZxhhEkfx+ZmfwXjMnAPbdTMx4ReEOgq1XzN         AK7A=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=k3ZgA++iuBzgT89mZcGSWsoR5IuNnBQGK9ix558BmTk=;        b=AKNWeQlea6V4Bb5KJalfWrHMNCPGty1725OmKY3qJ3dxkBy87ykoJ7453IBcQbkiYq         oJS2LJbpBxPYK70AAK7ZqMHzBDWAHMtKxXCEjBaZQ1gUEXj4iG06q3mHXfUs0R09KF1F         CfMMoVR8/q3LsO7Z9MuiN688VDoPIF/se0fklsCBrnuYV36218G3ZiyujcHwAL8Oa3xs         TJUWFoFM8s6Z+A1JpfN25yd8NeOjVwkD7Q8rtFam0c91KQ7Wq5o4Wdczqpqf4iYBQM5b         x+gwuPjQfdZ0gcAiGnGxuIucYyR6/LJxVUqRNSU+NYEbDxP7wLfxVjNRiES+UnY+8K0f         m8dQ=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM530jaaDgq534fI2jK1GNTJ8QeApZsK0tvxts7OeLJRvN6ZrwTcwT sqaKQUp2olycwZ96Bcpp+cRcYLWUNFg="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJyRKaCms0HGMpg+CWe6e4dGnapxz4nvAukpmg6/FkZvs48Qer4J6ZSu1aBTOLdba605SY58Ng=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:90b:4f4e:b0:1da:3d4b:2923 with SMTP id pj14-20020a17090b4f4e00b001da3d4b2923mr9736164pjb.86.1651336873412;        Sat, 30 Apr 2022 09:41:13 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id 7-20020a631347000000b003c14af505fcsm8424592pgt.20.2022.04.30.09.41.11        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:41:12 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d66a8.1c69fb81.9a12f.44ed@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:41:12 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 26,
+					"data": "VmVsb2NpdHkgLT4gNTkgRS02IG0vcw0KDQo="
+				}
+			},
+			"sizeEstimate": 4907,
+			"historyId": "3349018",
+			"internalDate": "1651336872000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b5907e0864a0?format=full"
+		}
+	}
+}{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b40bd4ffd1ab?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b40bd4ffd1ab",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 75 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1759343dye;        Sat, 30 Apr 2022 09:14:41 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a63:1252:0:b0:39d:aa7a:c6e1 with SMTP id 18-20020a631252000000b0039daa7ac6e1mr3578347pgs.436.1651335281759;        Sat, 30 Apr 2022 09:14:41 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651335281; cv=none;        d=google.com; s=arc-20160816;        b=pbeLd5bkzIU13Ex6+jrp7MWZeNV+Iwccw3+geLL5VAL9z830sItGvHt7v1ju5P2BNS         LdZugz5HLK7hqR3tuVRUEO7cSS70uXKsK+ki+Yxiw+GEcuh2Mpopcz45uvoBwTkqNCem         0Ep+LadW1k4Ux+mQZ7Rj33ou4KOEXohyeJzT3vMlOhhQ5zfIt5S6grUZ0nJfmeDMOxow         LsXsxF3cpwabiE+NbyJlBajsWG9R8YSHY5CHQIJDacfXUOTdHGkG5qzGL34qVL/o9cdT         Rd2u64KFuOjoBdFRSczrljcHcqch6CCqGMMsDV1Po8GRL42WbT8H0zvtKVag5gOfFMG5         K04g=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=vdq8rrtDiIYqlXUTqhJBDuZLXSYo7NduZ66DLOnXyW0=;        b=b2GDaTVYzCESlPhah6GMol72GlpqVZ10Xc4Do/7QIJbqdPRtf+eFYoQzZMZjeOfIE7         bpxYM+9u4doTzVCnpbEb0jNkbz38ftd8DxTMELxfVKsV/SGsYPB8/LtryzFKMUYC5XgY         +67dFhokpbq2JEN4hKL8zTSMjHwNNhIXM/a60UJexL4AkGhRQWqLGoCTLPQF3+Wp5jiW         vsguV2CbVlMONDa2DFvMFP+j+VKy+MYqbXR3uWBoLQYtfMP1IqXTUcxRhpf2+Bfac0R5         QSP64EEKlAuCPJzG99Ml1NKbzyURpSJAoEE/ZgQmHaPx6XEAOI9yJbfj7ioDKyMYV4PI         gd2g=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=c5PhklNl;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id p13-20020a170902eacd00b0015cfb5da0e3sor4593029pld.131.2022.04.30.09.14.41        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:14:41 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=c5PhklNl;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=vdq8rrtDiIYqlXUTqhJBDuZLXSYo7NduZ66DLOnXyW0=;        b=c5PhklNl9+p87AEV4PR7spc5yRhjFbnp9tgUfwMA3pYOOLbjLsPYSEJK/dpUlW+46o         F39FX6hqtqKmbqBZRHEwEfI0EAzXkdcMoRF3MPKEmxsJneaM4vzP690OQ0G3CI+tiVAW         heoPfUt7s0T3hhXpCM29wmsVrA9ayUFVSp4xVvYkq5qw4DGr6KfQGR60CCp8y7y/IZzi         YtIfL+iOXn88MEhj5hQYb38sf+v4+XXmhm0myQ2I63D2BUFdO9R82sBd3SBbbK7TttMN         3qeExCk3BbTDSwhrEz5d9tkBvJVTS4tx7sETvDtg3aFfjBfWV5L4XYXBhlc+mUvRL35X         n0kw=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=vdq8rrtDiIYqlXUTqhJBDuZLXSYo7NduZ66DLOnXyW0=;        b=tnerHm3hAL0ObKjXo/e2+IxqEkZIBypqXPlb7/HD3zqfGJwLfB8cO/QAaoTJBGif8o         tRnEPaGZmz7pxprW7cT66Eb0ZiFdN6naJVwZX6hRIjvgPVh0JWmUw/wWADhHgYy6hmPL         rpv+yj1ovB440jvkpZDbgZEiqlNbAE5xJRB1VNBn/QHjLZYHIg8FTMb+oeDjMbGd4bxY         XkJJ9QNLLK9czARX2fboe5u1toUoVN2pfkGpHs1ZDTZaWFe9IqkttRZHsauz98WF+gYk         J8Esq2yl9ROjBGfBPDfOQm8E3liRJPx3GdRIuvcBOk2NCg1SrJUiY0f7d+bYvUSUwfc9         vOvQ=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM532V3kLzgvn04RJNAcPW+byuDi7EjCKH+h8xCkTwQgaoh7RRnxMf g3fv7kkdqDDPpixOAggEoJgNmCkD+7g="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJxIHAQxQtN231M5HwFyLak+lJE105iJ3vyBr9X0MuUdb/nW77OCA6r9SD5PjEzVwLU8433taQ=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:903:248:b0:155:ecb7:dfaf with SMTP id j8-20020a170903024800b00155ecb7dfafmr4483625plh.84.1651335281172;        Sat, 30 Apr 2022 09:14:41 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id 38-20020a630f66000000b003c14af505fasm8168085pgp.18.2022.04.30.09.14.39        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:14:40 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d6070.1c69fb81.58d6a.3d49@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:14:40 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 26,
+					"data": "VmVsb2NpdHkgLT4gNzUgRS02IG0vcw0KDQo="
+				}
+			},
+			"sizeEstimate": 4898,
+			"historyId": "3349018",
+			"internalDate": "1651335280000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b40bd4ffd1ab?format=full"
+		}
+	}
+}{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b3bddf98564e?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b3bddf98564e",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 83 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1756231dye;        Sat, 30 Apr 2022 09:09:22 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a65:4503:0:b0:382:aad5:ad7d with SMTP id n3-20020a654503000000b00382aad5ad7dmr3618688pgq.488.1651334962536;        Sat, 30 Apr 2022 09:09:22 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651334962; cv=none;        d=google.com; s=arc-20160816;        b=FNStQDN83xaohhdP70ADcaQ/RzTha6KFtwTRlZJsQwIO61L6pb9PITMz5p+MOSU6PN         Y3YmE90Ys6B70T02s3ww2SxJYfVYiFBW/QrltdLp6Ty3mX6SaQctqVH+bx4TJDabaODm         76b6B2TxSJY+INmtz/1iPaEjAsS1OwmWZXEW/zi+l4QdbMpphu42bi+q6Z4C2VFtJGwf         ci2hbqs/Abrvkw4G/GkoLefYECLspudESAto2/fv3MrUhXwLO6xTQPmOX3hFT9gM2fXA         6YUfgCKfd2qgd26vrL705dI3Dn5RAQDfmWWDJ1hTBN0c0Mgzj05/vvKKIilXuvxn887u         NzHg=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=2j+cvSMUI6/gxXiv8RnoGcBPC5ZOVgPodK+iUULKIzQ=;        b=BkuGOMh6RdYhuqDEQy/D5qX/a9uXxDnfKCJHq99MDjzk5NNNmG7GWqnf0zEcM6y1OX         ViC2ZXC/Sb6Gamy+OTkoUwNvDbJ4BQtDs6OTACMGyFL4V6Xx0FNm4UjyKP01QrNFtTK3         k9FvxgHG9gH3OCJeXvQBHqyx/BYY2CXWBmQiDCCd+BcX88a4EGC5nJwo/HFjM6khvAVX         BhLHL08I7KfPxGjDGxvk1CCRBWNF9FAPUT4ex8BmCctCdM/sYFMEecfdtczQFHSZh4EA         3kRs2fH9xa6BQgqEmWg9itmQ3yxn5PqCtTmuDrvIfK3tGMK5BEPuVLdFLcIn602j0xXJ         Eadg=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=lzk50coJ;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id l126-20020a633e84000000b0039d61ddb78bsor5302233pga.0.2022.04.30.09.09.22        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:09:22 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=lzk50coJ;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=2j+cvSMUI6/gxXiv8RnoGcBPC5ZOVgPodK+iUULKIzQ=;        b=lzk50coJ4JxaG/4tIzqNE1y6kV9o7oTbLZ9kZlJhpoZuC00nwb5e+ociKkOcX3qWIo         FeDFgfpulM5DkByWvBRNk0GO7PVBx3JZUJqA2hOmATteVv0O614xlj4q0XsCfuT39rE1         hoICg+F8yUjgyFGBG+kqINja9LZo0+cbmDkq2oSIZlU4PfawP3IN28Fzc9K4HXF/MET4         GX5bxNVefglIIGIWgXg6obTukTYTsGKIXQgyFre6FmWlkRWfGJRFdx7tWfMax9GUWqD1         sJro4SZ6VW/21jn2R5+lOgdgSG4rFR4qadeeH/m1Kp14HceynjYhiElkbfeuVfOUFy8F         yTVw=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=2j+cvSMUI6/gxXiv8RnoGcBPC5ZOVgPodK+iUULKIzQ=;        b=ZccfodEIrBm9ddqD3EMTcO78j+/qLJ/czqH3XPMG0nLfBE1uEXO7uen78uNAqCgcfo         G4jmS1zaQf6npi3F6L8jagixPvlqHwSKGUEhlvs7DEpVGvdR9wPd7GzMgn4ihhY0EYCv         oc7xAf3j8WxjdzWim1qJi2wKHHcc+waRZkRT5WHujNIa6Y8+OJCti8UtE64R7Rvcqh4x         wCEGf3hI850e1CcdKpYN+01kvZoBIR+qSucAbb3G1+Sy0dD4Juux5Xk7aR5kQrzufyuc         +2VrgMbJYaVfu+sYo8wMLpnwzr5S0D/GRvvP+OPmENTSvszVPiL6ZtUgufnfVMo9Pake         ZFeQ=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM532Do0srsOkxbucayBztyo3IrGpUI6mePLsSjxS2ReEUf8bMXSkC FOF9JD52fkz+G+8hnHnTI6VSAu9iRUU="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJwLCMS86Rjkhzyq25X3Iq0r9JeFjxJJiZXNR11b/NUx21im8CTXP/1bTtLNA5sPAQh2SVHo+Q=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a63:6e84:0:b0:398:1338:689 with SMTP id j126-20020a636e84000000b0039813380689mr3555673pgc.283.1651334961962;        Sat, 30 Apr 2022 09:09:21 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id z11-20020a1709028f8b00b0015e8d4eb2e7sm1646905plo.305.2022.04.30.09.09.20        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:09:21 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d5f31.1c69fb81.ab62f.392e@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:09:21 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 26,
+					"data": "VmVsb2NpdHkgLT4gODMgRS02IG0vcw0KDQo="
+				}
+			},
+			"sizeEstimate": 4900,
+			"historyId": "3349018",
+			"internalDate": "1651334961000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b3bddf98564e?format=full"
+		}
+	}
+}{
+	"status": "fulfilled",
+	"value": {
+		"config": {
+			"url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b370ff918431?format=full",
+			"method": "GET",
+			"userAgentDirectives": [
+				{
+					"product": "google-api-nodejs-client",
+					"version": "6.0.3",
+					"comment": "gzip"
+				}
+			],
+			"headers": {
+				"x-goog-api-client": "gdcl/6.0.3 gl-node/16.17.1 auth/8.5.2",
+				"Accept-Encoding": "gzip",
+				"User-Agent": "google-api-nodejs-client/6.0.3 (gzip)",
+				"Authorization": "Bearer ya29.a0Aa4xrXNA71zVjdCYFvRN13jjzxN6TXL_lzG7rRFFVxewjr1mLZOvp2vUFmEGgeHvxfa-VYvWGB4iqu80IzDXVCbnvBChdK3wkPjqcV6yDtITBkiFR5iXTz6RX0WqQpdGLonbpQVHDMuXNRkjmC5vYGxlv0YHGwaCgYKATASARESFQEjDvL93RQW8rEHmHFZH4Jcpilqzw0165",
+				"Accept": "application/json"
+			},
+			"params": {
+				"format": "full"
+			},
+			"retry": true,
+			"responseType": "json"
+		},
+		"data": {
+			"id": "1807b370ff918431",
+			"threadId": "180799afc798c6b1",
+			"labelIds": [
+				"IMPORTANT",
+				"Label_5293947609675640119",
+				"CATEGORY_PERSONAL"
+			],
+			"snippet": "Velocity -&gt; 106 E-6 m/s",
+			"payload": {
+				"partId": "",
+				"mimeType": "text/plain",
+				"filename": "",
+				"headers": [
+					{
+						"name": "Delivered-To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Received",
+						"value": "by 2002:a05:7300:430f:b0:5f:3323:6af8 with SMTP id v15csp1752469dye;        Sat, 30 Apr 2022 09:04:07 -0700 (PDT)"
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a17:902:da81:b0:15d:37b9:70df with SMTP id j1-20020a170902da8100b0015d37b970dfmr4443288plx.34.1651334647444;        Sat, 30 Apr 2022 09:04:07 -0700 (PDT)"
+					},
+					{
+						"name": "ARC-Seal",
+						"value": "i=1; a=rsa-sha256; t=1651334647; cv=none;        d=google.com; s=arc-20160816;        b=SPELBVLj9M3YjGAfvEkYdYR/7dnoW4Yav4/p2qKNmHMkYUeF6MG+yMZGhesfy6FIOh         nslU/xKeWM+7NPBDgodthAlwBnlDmzZZhmHF0p77ECoid4lcZLOYl0JTPPHlmTPxYhVJ         TYbwgWR13JDa1r3pZx67YNK7/ze2joUE+1SONBCxrvQvgCj/adpMMR4215XP1kn0exh2         6+NteZVp2OCDLgWwa3pbMVf+lv1m56KhHB23cce9vBuGw2gxeWdbOw9NRk+9nYmd/Qmp         AYGilVod93LpRHHon4erVwHcOCfDqghJjSvhlr3DhytFXPnrHSPkQGTA9hX+ba5CC/yw         HMXg=="
+					},
+					{
+						"name": "ARC-Message-Signature",
+						"value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;        h=subject:to:from:date:message-id:dkim-signature;        bh=Fizu+SP1PccDQHqcS7xXHRWREIqq4zt904qpsj7ivDw=;        b=LiPVoPeWd7GSYqmw6S0R5rlx6OYUno0DQOhj2u1Qbbg32KhS/6jwoRTo/N9lze9YL2         z95Oeo11MdLo/GFbbJFkv7vVkWTQQiAZsTncuc7LQaRU/6hhZiEYYb74HcixhnDxVjbI         DDp/TbpTTrFePlyQ29fJwbYXQV7ooZX8XO6XuGmoonpmfZ9HBHzWrYEruJzVwYvoVfri         dtYFqMj2xx63twAg+P9K3wIqQb4kN5jVEH277W/s8ojEtGp6MQkJW/L/0OBkIbTU1vn1         whepD0FbYQSIBMRAp3+2fL0na93+0Ue2hPE3KBPcKTNq4WlKcJqc4LKXfLs5pWAudzK8         q2/w=="
+					},
+					{
+						"name": "ARC-Authentication-Results",
+						"value": "i=1; mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=Ra4ojma7;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])        by mx.google.com with SMTPS id f194-20020a6238cb000000b0050d7e9986f7sor5328424pfa.62.2022.04.30.09.04.07        for <rtvibration@cambrian.com.sg>        (Google Transport Security);        Sat, 30 Apr 2022 09:04:07 -0700 (PDT)"
+					},
+					{
+						"name": "Received-SPF",
+						"value": "pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;"
+					},
+					{
+						"name": "Authentication-Results",
+						"value": "mx.google.com;       dkim=pass header.i=@gmail.com header.s=20210112 header.b=Ra4ojma7;       spf=pass (google.com: domain of rt.cfbe.abc@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=rt.cfbe.abc@gmail.com;       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com"
+					},
+					{
+						"name": "DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=gmail.com; s=20210112;        h=message-id:date:from:to:subject;        bh=Fizu+SP1PccDQHqcS7xXHRWREIqq4zt904qpsj7ivDw=;        b=Ra4ojma7bVRaMVF6ltnIUfXyn183LVW3OAU007dTv/oDAtK5azBOqKM0eQ5YqwTdot         SvNiH1mxHgLrniW2kp4WDjTSxhG8XhslpH9B4NsbPWvSEf2gDlmEeMRu8Sa4DvybHM/u         1LJyGcczHKj+xDFrAf0mSOLp4ykAS0x35msf7Hp4rQwg7qgbRX8f0q/DfJk+gRbfSVHi         R3c4VX/WNzk6sF/aIEH1GKcimUQtvL3lZgWuXI83GbiMdGolQpGYexOZLJG/18aC5NQZ         +3IiMrtH5sJSew/uBTMydJgr1PDB1GkuG03bsek1wOWEq7kvULph7jEJJUkWnA9Wn1DL         R/KQ=="
+					},
+					{
+						"name": "X-Google-DKIM-Signature",
+						"value": "v=1; a=rsa-sha256; c=relaxed/relaxed;        d=1e100.net; s=20210112;        h=x-gm-message-state:message-id:date:from:to:subject;        bh=Fizu+SP1PccDQHqcS7xXHRWREIqq4zt904qpsj7ivDw=;        b=HfVNe9lW/3jtkLJGhJicnWi7X+EPO5G0A9cWPk+WLqaaH3UjuWcmWp5REayGrTIyjK         IAFkfR/sjVNYBeteq4iOrILk2vlTFMq9xhsrQLd48ngeDI4bbEmel4HxKwGKaWB/CZQQ         uEIFkxdwMnhsph4A/yemc+iVuwwardk7u/4MYQTErz4pjHgAjCIyZGW3LJ8s2He4HWDe         K3SsfsVtQPjKMl/zNKDuuNAYX+2AG4tn34CWUC0Fjt42YbaTvwVf6vsOOxawIhwLnExM         XFh6u/i62dAGhgOy+zKoceL/h/3zOCK0G1KImmbUl4L7ddRZx5LIgc3TRJG8ZJ6J3x+b         gCwQ=="
+					},
+					{
+						"name": "X-Gm-Message-State",
+						"value": "AOAM532Rj5yhuFfkdzG4x7MmSwRutN8ivz3PGBY/ITIPjoH6oQFrBoy2 46ALGOy9QswNcfp0x07c3b08Ph/QkSE="
+					},
+					{
+						"name": "X-Google-Smtp-Source",
+						"value": "ABdhPJyIZFD8IazGfrmpDvKugKsvPWSwbyIkkraGbNT4SXJiZWGLwOcTN9BVls4LyX4puaf8U4VA9g=="
+					},
+					{
+						"name": "X-Received",
+						"value": "by 2002:a65:6e41:0:b0:39c:c97b:2aef with SMTP id be1-20020a656e41000000b0039cc97b2aefmr3659428pgb.473.1651334646753;        Sat, 30 Apr 2022 09:04:06 -0700 (PDT)"
+					},
+					{
+						"name": "Return-Path",
+						"value": "<rt.cfbe.abc@gmail.com>"
+					},
+					{
+						"name": "Received",
+						"value": "from localhost ([111.65.59.214])        by smtp.gmail.com with ESMTPSA id s9-20020a639e09000000b003c14af5063asm8549718pgd.82.2022.04.30.09.03.59        for <rtvibration@cambrian.com.sg>        (version=TLS1_2 cipher=AES128-SHA bits=128/128);        Sat, 30 Apr 2022 09:04:06 -0700 (PDT)"
+					},
+					{
+						"name": "Message-ID",
+						"value": "<626d5df6.1c69fb81.b5752.46b7@mx.google.com>"
+					},
+					{
+						"name": "Date",
+						"value": "Sat, 30 Apr 2022 09:04:06 -0700 (PDT)"
+					},
+					{
+						"name": "From",
+						"value": "rt.cfbe.abc@gmail.com"
+					},
+					{
+						"name": "X-Google-Original-From",
+						"value": "rt.CFBe.abc@gmail.com"
+					},
+					{
+						"name": "To",
+						"value": "rtvibration@cambrian.com.sg"
+					},
+					{
+						"name": "Subject",
+						"value": "CFBe_VM1_KK Hospital - Sensor Alarm"
+					}
+				],
+				"body": {
+					"size": 27,
+					"data": "VmVsb2NpdHkgLT4gMTA2IEUtNiBtL3MNCg0K"
+				}
+			},
+			"sizeEstimate": 4901,
+			"historyId": "3349018",
+			"internalDate": "1651334646000"
+		},
+		"headers": {
+			"alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+			"cache-control": "private",
+			"connection": "close",
+			"content-encoding": "gzip",
+			"content-type": "application/json; charset=UTF-8",
+			"date": "Fri, 14 Oct 2022 08:24:54 GMT",
+			"server": "ESF",
+			"transfer-encoding": "chunked",
+			"vary": "Origin, X-Origin, Referer",
+			"x-content-type-options": "nosniff",
+			"x-frame-options": "SAMEORIGIN",
+			"x-xss-protection": "0"
+		},
+		"status": 200,
+		"statusText": "OK",
+		"request": {
+			"responseURL": "https://gmail.googleapis.com/gmail/v1/users/me/messages/1807b370ff918431?format=full"
+		}
+	}
+}
