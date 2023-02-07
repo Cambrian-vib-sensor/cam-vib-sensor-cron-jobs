@@ -6,7 +6,6 @@ const {google} = require('googleapis');
 const mysql = require('mysql');
 //const dotenv = require('dotenv');
 const util = require('util');
-
 // If modifying these scopes, delete token.json.
 const SCOPES = ['https://www.googleapis.com/auth/gmail.readonly'];
 // The file token.json stores the user's access and refresh tokens, and is

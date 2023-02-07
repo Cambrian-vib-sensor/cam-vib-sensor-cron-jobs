@@ -12,7 +12,6 @@ const SCOPES = ['https://www.googleapis.com/auth/gmail.readonly'];
 // The file token.json stores the user's access and refresh tokens, and is
 // created automatically when the authorization flow completes for the first
 // time.
-
 //The environment variables are defined here as the process is run from Windows Task Scheduler
 const DB_PORT = 3306;
 const DB_NAME = "cambrian_vibration_monitoring";

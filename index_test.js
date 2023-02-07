@@ -338,6 +338,7 @@ async function limitCheck() {
 
 }
 
+
 //connect().then(alertCheck).then(() => console.log("Success")).catch(error=>console.log(error.message)).finally(()=>{connection.end();/*pool.end();*/ console.log("Completed")}); //Run once
 
 connect().then(limitCheck).then(() => console.log("Success")).catch(error=>console.log(error.message)).finally(()=>{connection.end();/*pool.end();*/ console.log("Completed")}); //Run once

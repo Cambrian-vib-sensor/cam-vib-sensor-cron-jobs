@@ -4,7 +4,6 @@ const mysql = require('mysql');
 const util = require('util');
 const modbus = require("modbus-stream");
 
-
 //The environment variables are defined here as the process is run from Windows Task Scheduler
 const DB_PORT = 3306;
 const DB_NAME = "test";
